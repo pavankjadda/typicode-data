@@ -1,37 +1,39 @@
-[
-  {
-    "firstName": "John",
-    "lastName": "Doe",
-    "email": "jdoe@example.com",
-    "phone": "123-456-7890",
-    "age": 23,
-  },
-  {
-    "firstName": "Jack",
-    "lastName": "Reacher",
-    "email": "jreacher@example.com",
-    "phone": "123-456-7890",
-    "age": 34,
-  },
-  {
-    "firstName": "Jack",
-    "lastName": "Ryan",
-    "email": "jryan@example.com",
-    "phone": "123-456-7890",
-    "age": 26,
-  },
-  {
-    "firstName": "Steve",
-    "lastName": "Rogers",
-    "email": "srogers@example.com",
-    "phone": "123-456-7890",
-    "age": 29,
-  },
-  {
-    "firstName": "John",
-    "lastName": "Reese",
-    "email": "jreese@example.com",
-    "phone": "123-456-7890",
-    "age": 28,
-  }
-]
+{
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "jdoe@example.com",
+      "phone": "123-456-7890",
+      "age": 23
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Reacher",
+      "email": "jreacher@example.com",
+      "phone": "123-456-7890",
+      "age": 34
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Ryan",
+      "email": "jryan@example.com",
+      "phone": "123-456-7890",
+      "age": 26
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "srogers@example.com",
+      "phone": "123-456-7890",
+      "age": 29
+    },
+    {
+      "firstName": "John",
+      "lastName": "Reese",
+      "email": "jreese@example.com",
+      "phone": "123-456-7890",
+      "age": 28
+    }
+  ]
+}
