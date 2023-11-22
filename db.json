@@ -1,4 +1,51 @@
-{
+{"authenticate": {
+    "id": 1,
+    "username": "pjadda",
+    "password": null,
+    "firstName": "Pavan Kumar",
+    "lastName": "Jadda",
+    "displayName": null,
+    "email": "pavankumar.jadda@example.com",
+    "active": true,
+    "credentialsNonExpired": true,
+    "accountNonLocked": true,
+    "accountNonExpired": true,
+    "token": "6ca43334-68e9-4311-b797-f992eb9649c7",
+    "tokenExpirationDate": "2022-01-18T18:18:52.925Z",
+    "userAuthType": {
+      "createdBy": null,
+      "createdDate": null,
+      "lastModifiedBy": null,
+      "lastModifiedDate": null,
+      "id": 1,
+      "value": "LDAP"
+    },
+    "authorities": [
+      {
+        "name": "ROLE_CORE_USER"
+      },
+      {
+        "name": "ROLE_REGISTERING_USER"
+      },
+      {
+        "name": "ROLE_API_USER"
+      },
+      {
+        "name": "ROLE_DATA_ADMIN"
+      },
+      {
+        "name": "ROLE_READONLY_USER"
+      },
+      {
+        "name": "ROLE_DATA_USER"
+      },
+      {
+        "name": "ROLE_SYS_ADMIN"
+      }
+    ],
+    "lastModifiedBy": "System",
+    "lastModifiedDate": "2020-06-19T20:44:50.193548Z"
+  },
   "employees": [
     {
       "id": 1001,
