@@ -131,69 +131,6 @@
       "lastName": "Cormier",
       "phone": "782-208-3772 x4372",
       "age": 55
-    },
-    {
-      "id": 1011,
-      "firstName": "Lester",
-      "lastName": "Wolf",
-      "phone": "205-789-3345 x177",
-      "age": 94
-    },
-    {
-      "id": 1012,
-      "firstName": "Brenna",
-      "lastName": "Donnelly",
-      "phone": "1-606-714-0291",
-      "age": 42
-    },
-    {
-      "id": 1013,
-      "firstName": "Lucy",
-      "lastName": "Ferry",
-      "phone": "1-626-888-7157 x9100",
-      "age": 43
-    },
-    {
-      "id": 1014,
-      "firstName": "Lupe",
-      "lastName": "Torphy-Glover",
-      "phone": "668-936-3676 x6547",
-      "age": 47
-    },
-    {
-      "id": 1015,
-      "firstName": "Amalia",
-      "lastName": "Rempel",
-      "phone": "481-994-3612",
-      "age": 66
-    },
-    {
-      "id": 1016,
-      "firstName": "Mittie",
-      "lastName": "Lueilwitz",
-      "phone": "(381) 396-3708 x68708",
-      "age": 32
-    },
-    {
-      "id": 1017,
-      "firstName": "Frederic",
-      "lastName": "Jerde",
-      "phone": "1-421-371-6710 x53486",
-      "age": 34
-    },
-    {
-      "id": 1018,
-      "firstName": "Bailee",
-      "lastName": "Grant",
-      "phone": "705.814.8298 x753",
-      "age": 50
-    },
-    {
-      "id": 1019,
-      "firstName": "Daphne",
-      "lastName": "Schuppe-Ernser",
-      "phone": "669.358.7253 x5117",
-      "age": 33
     }
   ],
   "books": [
